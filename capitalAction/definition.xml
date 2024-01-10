@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<action-definition id="backoffice.widgets.actions.capital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:noNamespaceSchemaLocation="http://www.hybris.com/schema/cockpitng/action-definition.xsd">
+
+    <description>Capital</description>
+    <defaultTitle>Capital</defaultTitle>
+    <author></author>
+    <version>0.1</version>
+
+
+    <actionClassName>org.training.backoffice.actions.CustomCapitalAction</actionClassName>
+
+    <inputType>java.lang.String</inputType>
+    <outputType>java.lang.String</outputType>
+
+    <iconUri>icon/cap.png</iconUri>
+    <iconHoverUri>icon/cap.png</iconHoverUri>
+    <iconDisabledUri>icon/cap.png</iconDisabledUri>
+
+</action-definition>

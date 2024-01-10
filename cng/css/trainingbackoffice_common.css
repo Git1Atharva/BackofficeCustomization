@@ -1,0 +1,14 @@
+div.yw-explorerTree .y-tree-icon-trainingbackoffice_explorer_treenode_posts .y-tree-icon
+ {
+ background-image: url("images/blog3.png");
+  background-repeat: no-repeat;
+  font-size: 20px;
+     height: 24px;
+         width: 22px;
+         margin-left: -2px;
+ }
+
+.yw-explorerTree .z-treerow:hover .y-tree-icon {
+  background-position: 0 !important;
+}
+

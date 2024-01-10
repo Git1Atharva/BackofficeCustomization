@@ -1,0 +1,17 @@
+<action-definition id="org.training.backoffice.actions.capitalLetter"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:noNamespaceSchemaLocation="http://www.hybris.com/schema/cockpitng/action-definition.xsd">
+
+    <name>Capital Title</name>
+    <description>Change title into capital letter</description>
+    <author>atharva</author>
+    <version>0.1</version>
+
+    <actionClassName>org.training.backoffice.actions.CapitalLetter</actionClassName>
+
+    <inputType>java.lang.Object</inputType>
+    <outputType>java.lang.Object</outputType>
+
+    <iconUri>icons/blogging.png</iconUri>
+    <iconDisabledUri>icons/blogging.png</iconDisabledUri>
+</action-definition>
